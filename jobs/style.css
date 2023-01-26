@@ -17,6 +17,9 @@
   padding: 0.5rem  0; 
   width: 100%;
 }
+.search-again div button:hover {
+  border: 1px solid #000;
+}
 .search-again div button {
   border-radius: 4px;
   border: 1px solid gray;
